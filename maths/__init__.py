@@ -1,1 +1,1 @@
-from maths import quadratic
+from maths import quadratic, factorial, sqroot
