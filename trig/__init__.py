@@ -1,0 +1,1 @@
+from trig import cos, sin, tan
