@@ -8,11 +8,12 @@ wip
 
 ### Dependencies
 
-- The Python standard library (math)
+- The Python standard library
 
 ### Library Included Features
 
 - Resolving quadratic equations
+- Basic math (factorial, sqrt)
 
 ### Why do this project?
 
