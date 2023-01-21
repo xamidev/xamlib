@@ -14,6 +14,7 @@ wip
 
 - Resolving quadratic equations
 - Basic math (factorial, sqrt)
+- Basic aerospatial math (excentricity, Delta V)
 
 ### Why do this project?
 
