@@ -21,7 +21,13 @@ wip
 - To learn about making Python libs
 - To reuse code portions efficiently
 
-### What to implement (ideas) / resources used here
+### To be done
+
+- Better importation (actually, need to import maths.sqroot.sqroot, but I would like to just import math and use sqroot directly)
+- Better commenting for all code (input data needed, etc.)
+- Space math for non-round orbits
+
+### Ideas / resources used here
 
 [Nagwa article - spaceflight related basic calculations (French)](https://www.nagwa.com/fr/explainers/904168413408/)
 [Creating a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
