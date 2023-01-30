@@ -1,1 +1,1 @@
-from space import deltav, excent
+from space import deltav, excent, OrbitalSpeed, roundOrbitCircumference, roundOrbitRadius
